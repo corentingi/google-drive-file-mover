@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "name": "mover.py",
+            "type": "python",
+            "request": "launch",
+            "program": "mover.py",
+            "args": [
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": false
+        }
+    ]
+}
